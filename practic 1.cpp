@@ -1,7 +1,8 @@
 #include <iostream>
 #include <cmath>
 
-int main() {
+int main() 
+{
     int a = 4;
     double b = 300.1;
     double result;
